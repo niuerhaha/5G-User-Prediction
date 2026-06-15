@@ -1,6 +1,6 @@
 # 5G User Prediction
 
-This is a simple machine learning project. I use Random Forest and LightGBM to predict if a user will use 5G or not.
+This is a simple machine learning project. We use Random Forest and LightGBM to predict if a user will use 5G or not.
 
 ## About this project
 
