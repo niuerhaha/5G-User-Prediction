@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Then run the Python file:
 
 ```
-python 5G用户预测.py
+python 5GUser-Prediction.py
 ```
 
 After running, you will see some numbers printed in the terminal, and 4 pictures will be saved:
